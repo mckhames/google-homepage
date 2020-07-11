@@ -10,7 +10,19 @@ body {
 }
 
 #topbar {
+    margin: 25px 40px 0 0;
 
+}
+
+ul {
+    list-style-type:none;
+}
+
+li {
+    display:flex;
+    float:right;
+    padding: 0 0 0 18px;
+    
 }
 
 #logo {
@@ -24,4 +36,12 @@ body {
     width: 50%;
     margin: 0 auto;
     text-align:center;
+}
+
+#grid {
+  
+}
+
+#profile-pic {
+    border-radius:50%;
 }
