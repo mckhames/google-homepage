@@ -1,0 +1,27 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+#container {
+    margin: 10px 0 0 0;
+    text-align:center;
+
+}
+
+#topbar {
+
+}
+
+#logo {
+    clear:both;
+    display:block;
+    margin: 20em auto 0 auto;
+    padding:0 0 25px 0;
+}
+
+#logo-container {
+    width: 50%;
+    margin: 0 auto;
+    text-align:center;
+}
