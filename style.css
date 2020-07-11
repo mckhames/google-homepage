@@ -29,7 +29,7 @@ li {
     clear:both;
     display:block;
     margin: 20em auto 0 auto;
-    padding:0 0 25px 0;
+    padding:100px 0 25px 0;
 }
 
 #logo-container {
@@ -44,4 +44,10 @@ li {
 
 #profile-pic {
     border-radius:50%;
+}
+
+.searchber {
+    border-radius:25px;
+    width:450px;
+    height:40px;
 }
